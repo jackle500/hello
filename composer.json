@@ -1,0 +1,14 @@
+{
+  "Name": "huyle/328/hello",
+  "Description": "My first Fat-free MVC project",
+  "Author": [
+    {
+    "Name": "Huy Le",
+    "Email": "Huy.le@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
+
